@@ -10,3 +10,5 @@ an *important* and **bold** fact about week 1 is it's the first week
 ## Week 3
 [facebook](https://www.faceboook.com)
 
+## week 5
+This week we learned about shell scripts, which are p cool
