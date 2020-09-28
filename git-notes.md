@@ -1,4 +1,4 @@
-### Stat 992 Notes
+# Stat 992 Notes
 
 ## Week 1
 
