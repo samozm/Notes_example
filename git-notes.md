@@ -13,3 +13,6 @@ an *important* and **bold** fact about week 1 is it's the first week
 ## week 5
 This week we learned about shell scripts, which are p cool
 We also have a git practice assignment this week
+
+## Week 6
+We're doing branches
